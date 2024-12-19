@@ -1,0 +1,139 @@
+ID,Year,Country name,Latitude,Longitude,Start date,End date,Type,regions,Cause,References,Fatalities,"Losses (mln EUR, 2020)"
+1453,1979,Switzerland,47.0505452,8.3054682,01.06.1979,02.06.1979,Flash,"[(47.0505452, 8.3054682)]",Extreme rainfall,Rothlisberger (1991),None,57
+1453,1979,Switzerland,46.942756,8.4119773,01.06.1979,02.06.1979,Flash,"[(46.942756, 8.4119773)]",Extreme rainfall,Rothlisberger (1991),None,57
+6017,1981,Switzerland,47.412396,8.1948321,10.07.1981,12.07.1981,River,"[(47.412396, 8.1948321)]",Heavy rainfall,Zeller and Röthlisberger (1982),None,7
+1454,1984,Switzerland,46.8382351,7.6004502,24.07.1984,25.07.1984,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,47.5579097,7.5927728,24.07.1984,25.07.1984,Flash,"[(47.5579097, 7.5927728)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,47.3744489,8.5410422,24.07.1984,25.07.1984,Flash,"[(47.3744489, 8.5410422)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,47.6960491,8.634513,24.07.1984,25.07.1984,Flash,"[(47.6960491, 8.634513)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,47.3960076,9.3705839,24.07.1984,25.07.1984,Flash,"[(47.3960076, 9.3705839)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,47.3007262,9.3991527,24.07.1984,25.07.1984,Flash,"[(47.3007262, 9.3991527)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,47.425618,9.3762397,24.07.1984,25.07.1984,Flash,"[(47.425618, 9.3762397)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,47.0505452,8.3054682,24.07.1984,25.07.1984,Flash,"[(47.0505452, 8.3054682)]",Extreme rainfall,Rothlisberger (1991),None,68
+1454,1984,Switzerland,46.942756,8.4119773,24.07.1984,25.07.1984,Flash,"[(46.942756, 8.4119773)]",Extreme rainfall,Rothlisberger (1991),None,68
+1455,1985,Switzerland,46.8382351,7.6004502,04.07.1985,05.07.1985,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Rothlisberger (1991),None,48
+1455,1985,Switzerland,46.6789116,7.1027113,04.07.1985,05.07.1985,Flash,"[(46.6789116, 7.1027113)]",Extreme rainfall,Rothlisberger (1991),None,48
+6019,1986,Switzerland,46.8382351,7.6004502,23.05.1986,24.05.1986,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Sturmarchiv Schweiz (2022),1,38
+1456,1986,Switzerland,46.8382351,7.6004502,16.06.1986,23.06.1986,River,"[(46.8382351, 7.6004502)]",Heavy rainfall,Hilker et al. (2009); Rothlisberger (1991),2,148
+1456,1986,Switzerland,47.31874,7.6698284,16.06.1986,23.06.1986,River,"[(47.31874, 7.6698284)]",Heavy rainfall,Hilker et al. (2009); Rothlisberger (1991),2,148
+1456,1986,Switzerland,47.412396,8.1948321,16.06.1986,23.06.1986,River,"[(47.412396, 8.1948321)]",Heavy rainfall,Hilker et al. (2009); Rothlisberger (1991),2,148
+1456,1986,Switzerland,47.3744489,8.5410422,16.06.1986,23.06.1986,River,"[(47.3744489, 8.5410422)]",Heavy rainfall,Hilker et al. (2009); Rothlisberger (1991),2,148
+1456,1986,Switzerland,47.0505452,8.3054682,16.06.1986,23.06.1986,River,"[(47.0505452, 8.3054682)]",Heavy rainfall,Hilker et al. (2009); Rothlisberger (1991),2,148
+1456,1986,Switzerland,47.1486137,8.5539378,16.06.1986,23.06.1986,River,"[(47.1486137, 8.5539378)]",Heavy rainfall,Hilker et al. (2009); Rothlisberger (1991),2,148
+1457,1987,Switzerland,46.8382351,7.6004502,01.07.1987,08.07.1987,River,"[(46.8382351, 7.6004502)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),2,170
+1457,1987,Switzerland,47.6960491,8.634513,01.07.1987,08.07.1987,River,"[(47.6960491, 8.634513)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),2,170
+1457,1987,Switzerland,46.6960615,9.6027351,01.07.1987,08.07.1987,River,"[(46.6960615, 9.6027351)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),2,170
+1457,1987,Switzerland,47.0571976,8.7222073,01.07.1987,08.07.1987,River,"[(47.0571976, 8.7222073)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),2,170
+1458,1987,Switzerland,46.2303063,7.6605757,14.07.1987,19.07.1987,River,"[(46.2303063, 7.6605757)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),4,316
+1458,1987,Switzerland,46.8382351,7.6004502,14.07.1987,19.07.1987,River,"[(46.8382351, 7.6004502)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),4,316
+1458,1987,Switzerland,46.6960615,9.6027351,14.07.1987,19.07.1987,River,"[(46.6960615, 9.6027351)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),4,316
+1458,1987,Switzerland,46.3351913,8.7525902,14.07.1987,19.07.1987,River,"[(46.3351913, 8.7525902)]",Heavy rainfall,CRED (2023); Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991),4,316
+1459,1987,Switzerland,46.2303063,7.6605757,24.08.1987,25.08.1987,Flash,"[(46.2303063, 7.6605757)]",Extreme rainfall,Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991); Thomas (1988a),2,1012
+1459,1987,Switzerland,46.7864413,8.6420159,24.08.1987,25.08.1987,Flash,"[(46.7864413, 8.6420159)]",Extreme rainfall,Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991); Thomas (1988a),2,1012
+1459,1987,Switzerland,46.3351913,8.7525902,24.08.1987,25.08.1987,Flash,"[(46.3351913, 8.7525902)]",Extreme rainfall,Hilker et al. (2009); Bundesamt für Wasserwirtschaft (1991); Rothlisberger (1991); Thomas (1988a),2,1012
+1460,1988,Switzerland,46.8382351,7.6004502,11.06.1988,16.06.1988,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall (3 series),Hilker et al. (2009); Rothlisberger (1991),1,153
+1460,1988,Switzerland,47.211567,7.005484,11.06.1988,16.06.1988,Flash,"[(47.211567, 7.005484)]",Extreme rainfall (3 series),Hilker et al. (2009); Rothlisberger (1991),1,153
+1460,1988,Switzerland,47.0505452,8.3054682,11.06.1988,16.06.1988,Flash,"[(47.0505452, 8.3054682)]",Extreme rainfall (3 series),Hilker et al. (2009); Rothlisberger (1991),1,153
+1461,1990,Switzerland,46.8382351,7.6004502,29.07.1990,29.07.1990,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall up to 500 mm in 4 h,Munich Re (2017); PLANAT (2011),None,45
+6029,1993,Switzerland,47.412396,8.1948321,16.07.1993,17.07.1993,Flash,"[(47.412396, 8.1948321)]",Extreme rainfall up to 50 mm in 1 h,Sturmarchiv Schweiz (2022),1,8
+1462,1993,Switzerland,46.2303063,7.6605757,23.09.1993,14.10.1993,River,"[(46.2303063, 7.6605757)]","Heavy rainfall, more than 100 mm/day",Barredo (2007); Brakenridge (2022); Stucki et al. (2013); Hilker et al. (2009); Sturmarchiv Schweiz (2022),2,774
+1462,1993,Switzerland,46.3351913,8.7525902,23.09.1993,14.10.1993,River,"[(46.3351913, 8.7525902)]","Heavy rainfall, more than 100 mm/day",Barredo (2007); Brakenridge (2022); Stucki et al. (2013); Hilker et al. (2009); Sturmarchiv Schweiz (2022),2,774
+2334,1994,Switzerland,47.412396,8.1948321,18.05.1994,19.05.1994,Flash,"[(47.412396, 8.1948321)]",Extreme rainfall up to 100 mm in 12 h,Rothlisberger (1995); Sturmarchiv Schweiz (2022),None,132
+2334,1994,Switzerland,47.3744489,8.5410422,18.05.1994,19.05.1994,Flash,"[(47.3744489, 8.5410422)]",Extreme rainfall up to 100 mm in 12 h,Rothlisberger (1995); Sturmarchiv Schweiz (2022),None,132
+2334,1994,Switzerland,47.5859649,9.1428769,18.05.1994,19.05.1994,Flash,"[(47.5859649, 9.1428769)]",Extreme rainfall up to 100 mm in 12 h,Rothlisberger (1995); Sturmarchiv Schweiz (2022),None,132
+6026,1995,Switzerland,46.6960615,9.6027351,14.07.1995,15.07.1995,Flash,"[(46.6960615, 9.6027351)]",Extreme rainfall up to 50 mm in 1 h,Sturmarchiv Schweiz (2022),None,
+6027,1997,Switzerland,46.8382351,7.6004502,10.07.1997,25.07.1997,River,"[(46.8382351, 7.6004502)]",Heavy rainfall (3 waves),Rothlisberger (1998); Sturmarchiv Schweiz (2022),None,22
+6027,1997,Switzerland,47.5092938,7.6588333,10.07.1997,25.07.1997,River,"[(47.5092938, 7.6588333)]",Heavy rainfall (3 waves),Rothlisberger (1998); Sturmarchiv Schweiz (2022),None,22
+6028,1997,Switzerland,46.8382351,7.6004502,05.08.1997,06.08.1997,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Rothlisberger (1998); Sturmarchiv Schweiz (2022),None,6
+6028,1997,Switzerland,47.0505452,8.3054682,05.08.1997,06.08.1997,Flash,"[(47.0505452, 8.3054682)]",Extreme rainfall,Rothlisberger (1998); Sturmarchiv Schweiz (2022),None,6
+1463,1997,Switzerland,46.8613857,8.2067825,15.08.1997,16.08.1997,Flash,"[(46.8613857, 8.2067825)]",Extreme rainfall up to 150 mm in 2 h,CRED (2023); BWG (2004); Rothlisberger (1998),None,121
+6030,1999,Switzerland,47.5579097,7.5927728,20.02.1999,22.02.1999,River,"[(47.5579097, 7.5927728)]",Snowmelt,Hegg et al. (2000),None,40
+6030,1999,Switzerland,47.5092938,7.6588333,20.02.1999,22.02.1999,River,"[(47.5092938, 7.6588333)]",Snowmelt,Hegg et al. (2000),None,40
+6030,1999,Switzerland,47.412396,8.1948321,20.02.1999,22.02.1999,River,"[(47.412396, 8.1948321)]",Snowmelt,Hegg et al. (2000),None,40
+1464,1999,Switzerland,46.8382351,7.6004502,12.05.1999,29.05.1999,River,"[(46.8382351, 7.6004502)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+1464,1999,Switzerland,47.31874,7.6698284,12.05.1999,29.05.1999,River,"[(47.31874, 7.6698284)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+1464,1999,Switzerland,47.5579097,7.5927728,12.05.1999,29.05.1999,River,"[(47.5579097, 7.5927728)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+1464,1999,Switzerland,47.5092938,7.6588333,12.05.1999,29.05.1999,River,"[(47.5092938, 7.6588333)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+1464,1999,Switzerland,47.412396,8.1948321,12.05.1999,29.05.1999,River,"[(47.412396, 8.1948321)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+1464,1999,Switzerland,47.3744489,8.5410422,12.05.1999,29.05.1999,River,"[(47.3744489, 8.5410422)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+1464,1999,Switzerland,47.425618,9.3762397,12.05.1999,29.05.1999,River,"[(47.425618, 9.3762397)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+1464,1999,Switzerland,47.5859649,9.1428769,12.05.1999,29.05.1999,River,"[(47.5859649, 9.1428769)]",Snowmelt and rainfall,CRED (2023); Barredo (2007); Brakenridge (2022); Hilker et al. (2009),2,630
+6031,1999,Switzerland,46.6960615,9.6027351,26.09.1999,27.09.1999,River,"[(46.6960615, 9.6027351)]",Heavy rainfall up to 400 mm in 2 days,Hegg et al. (2000),1,3
+2879,2000,Switzerland,46.8382351,7.6004502,06.08.2000,06.08.2000,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Hegg et al. (2001),None,4
+2879,2000,Switzerland,47.425618,9.3762397,06.08.2000,06.08.2000,Flash,"[(47.425618, 9.3762397)]",Extreme rainfall,Hegg et al. (2001),None,4
+2879,2000,Switzerland,46.6960615,9.6027351,06.08.2000,06.08.2000,Flash,"[(46.6960615, 9.6027351)]",Extreme rainfall,Hegg et al. (2001),None,4
+1465,2000,Switzerland,46.2303063,7.6605757,13.10.2000,16.10.2000,River,"[(46.2303063, 7.6605757)]",Heavy rainfall,Barredo (2007); Hilker et al. (2009); Hegg et al. (2001),3,672
+1465,2000,Switzerland,46.3351913,8.7525902,13.10.2000,16.10.2000,River,"[(46.3351913, 8.7525902)]",Heavy rainfall,Barredo (2007); Hilker et al. (2009); Hegg et al. (2001),3,672
+2880,2001,Switzerland,46.8382351,7.6004502,12.03.2001,12.03.2001,River,"[(46.8382351, 7.6004502)]",Heavy rainfall,Hegg et al. (2002),None,8
+2881,2001,Switzerland,46.8382351,7.6004502,27.06.2001,28.06.2001,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Hegg et al. (2002),None,7
+2881,2001,Switzerland,47.5092938,7.6588333,27.06.2001,28.06.2001,Flash,"[(47.5092938, 7.6588333)]",Extreme rainfall,Hegg et al. (2002),None,7
+2882,2001,Switzerland,46.3351913,8.7525902,15.07.2001,15.07.2001,Flash,"[(46.3351913, 8.7525902)]",Extreme rainfall,Hegg et al. (2002),None,14
+2883,2002,Switzerland,46.8382351,7.6004502,13.07.2002,17.07.2002,River,"[(46.8382351, 7.6004502)]",Heavy rainfall,Hegg et al. (2003),None,39
+2883,2002,Switzerland,47.0505452,8.3054682,13.07.2002,17.07.2002,River,"[(47.0505452, 8.3054682)]",Heavy rainfall,Hegg et al. (2003),None,39
+1466,2005,Switzerland,46.8382351,7.6004502,19.08.2005,26.08.2005,River,"[(46.8382351, 7.6004502)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,47.31874,7.6698284,19.08.2005,26.08.2005,River,"[(47.31874, 7.6698284)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,47.412396,8.1948321,19.08.2005,26.08.2005,River,"[(47.412396, 8.1948321)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,47.3744489,8.5410422,19.08.2005,26.08.2005,River,"[(47.3744489, 8.5410422)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,46.9796562,9.108812,19.08.2005,26.08.2005,River,"[(46.9796562, 9.108812)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,47.425618,9.3762397,19.08.2005,26.08.2005,River,"[(47.425618, 9.3762397)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,46.6960615,9.6027351,19.08.2005,26.08.2005,River,"[(46.6960615, 9.6027351)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,47.0505452,8.3054682,19.08.2005,26.08.2005,River,"[(47.0505452, 8.3054682)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,46.7864413,8.6420159,19.08.2005,26.08.2005,River,"[(46.7864413, 8.6420159)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,47.0571976,8.7222073,19.08.2005,26.08.2005,River,"[(47.0571976, 8.7222073)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,46.8613857,8.2067825,19.08.2005,26.08.2005,River,"[(46.8613857, 8.2067825)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,46.942756,8.4119773,19.08.2005,26.08.2005,River,"[(46.942756, 8.4119773)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+1466,2005,Switzerland,47.1486137,8.5539378,19.08.2005,26.08.2005,River,"[(47.1486137, 8.5539378)]",Heavy rainfall up to 220 mm in 48 h,CRED (2023); Brakenridge (2022); Hilker et al. (2007a); OFDA (2005),6,2906
+2884,2006,Switzerland,46.8382351,7.6004502,09.04.2006,10.04.2006,River,"[(46.8382351, 7.6004502)]",Heavy rainfall,Hilker et al. (2007b),None,7
+2884,2006,Switzerland,46.6789116,7.1027113,09.04.2006,10.04.2006,River,"[(46.6789116, 7.1027113)]",Heavy rainfall,Hilker et al. (2007b),None,7
+2884,2006,Switzerland,47.211567,7.005484,09.04.2006,10.04.2006,River,"[(47.211567, 7.005484)]",Heavy rainfall,Hilker et al. (2007b),None,7
+2884,2006,Switzerland,47.5092938,7.6588333,09.04.2006,10.04.2006,River,"[(47.5092938, 7.6588333)]",Heavy rainfall,Hilker et al. (2007b),None,7
+2884,2006,Switzerland,47.6960491,8.634513,09.04.2006,10.04.2006,River,"[(47.6960491, 8.634513)]",Heavy rainfall,Hilker et al. (2007b),None,7
+1467,2006,Switzerland,46.2303063,7.6605757,05.07.2006,27.07.2006,River,"[(46.2303063, 7.6605757)]",Heavy rainfall,CRED (2023); Brakenridge (2022); Hilker et al. (2007b),None,19
+1467,2006,Switzerland,46.8382351,7.6004502,05.07.2006,27.07.2006,River,"[(46.8382351, 7.6004502)]",Heavy rainfall,CRED (2023); Brakenridge (2022); Hilker et al. (2007b),None,19
+2885,2006,Switzerland,47.31874,7.6698284,17.09.2006,18.09.2006,Flash,"[(47.31874, 7.6698284)]",Extreme rainfall,Hilker et al. (2007b),None,10
+2885,2006,Switzerland,47.5092938,7.6588333,17.09.2006,18.09.2006,Flash,"[(47.5092938, 7.6588333)]",Extreme rainfall,Hilker et al. (2007b),None,10
+2885,2006,Switzerland,47.425618,9.3762397,17.09.2006,18.09.2006,Flash,"[(47.425618, 9.3762397)]",Extreme rainfall,Hilker et al. (2007b),None,10
+1468,2007,Switzerland,46.8382351,7.6004502,04.06.2007,21.06.2007,River,"[(46.8382351, 7.6004502)]",Heavy rainfall (several waves),Brakenridge (2022); Hilker et al. (2008),3,213
+1468,2007,Switzerland,47.3744489,8.5410422,04.06.2007,21.06.2007,River,"[(47.3744489, 8.5410422)]",Heavy rainfall (several waves),Brakenridge (2022); Hilker et al. (2008),3,213
+1468,2007,Switzerland,47.6960491,8.634513,04.06.2007,21.06.2007,River,"[(47.6960491, 8.634513)]",Heavy rainfall (several waves),Brakenridge (2022); Hilker et al. (2008),3,213
+1468,2007,Switzerland,47.425618,9.3762397,04.06.2007,21.06.2007,River,"[(47.425618, 9.3762397)]",Heavy rainfall (several waves),Brakenridge (2022); Hilker et al. (2008),3,213
+1468,2007,Switzerland,47.0505452,8.3054682,04.06.2007,21.06.2007,River,"[(47.0505452, 8.3054682)]",Heavy rainfall (several waves),Brakenridge (2022); Hilker et al. (2008),3,213
+1468,2007,Switzerland,47.0571976,8.7222073,04.06.2007,21.06.2007,River,"[(47.0571976, 8.7222073)]",Heavy rainfall (several waves),Brakenridge (2022); Hilker et al. (2008),3,213
+1469,2007,Switzerland,46.2303063,7.6605757,07.08.2007,22.08.2007,River,"[(46.2303063, 7.6605757)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,46.8382351,7.6004502,07.08.2007,22.08.2007,River,"[(46.8382351, 7.6004502)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,46.6789116,7.1027113,07.08.2007,22.08.2007,River,"[(46.6789116, 7.1027113)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,47.31874,7.6698284,07.08.2007,22.08.2007,River,"[(47.31874, 7.6698284)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,46.9895828,6.9292641,07.08.2007,22.08.2007,River,"[(46.9895828, 6.9292641)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,47.5092938,7.6588333,07.08.2007,22.08.2007,River,"[(47.5092938, 7.6588333)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,47.412396,8.1948321,07.08.2007,22.08.2007,River,"[(47.412396, 8.1948321)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,46.6960615,9.6027351,07.08.2007,22.08.2007,River,"[(46.6960615, 9.6027351)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+1469,2007,Switzerland,47.0505452,8.3054682,07.08.2007,22.08.2007,River,"[(47.0505452, 8.3054682)]",Heavy rainfall (several waves),CRED (2023); Hilker et al. (2008),1,367
+2886,2007,Switzerland,46.8382351,7.6004502,29.08.2007,30.08.2007,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Hilker et al. (2008),None,60
+2887,2009,Switzerland,46.8382351,7.6004502,08.08.2009,08.08.2009,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Hilker et al. (2010),None,10
+2887,2009,Switzerland,47.425618,9.3762397,08.08.2009,08.08.2009,Flash,"[(47.425618, 9.3762397)]",Extreme rainfall,Hilker et al. (2010),None,10
+2887,2009,Switzerland,47.0505452,8.3054682,08.08.2009,08.08.2009,Flash,"[(47.0505452, 8.3054682)]",Extreme rainfall,Hilker et al. (2010),None,10
+2888,2010,Switzerland,46.8382351,7.6004502,06.06.2010,06.06.2010,Flash,"[(46.8382351, 7.6004502)]",Extreme rainfall,Hilker et al. (2011),None,22
+2889,2011,Switzerland,47.3960076,9.3705839,10.07.2011,10.07.2011,Flash,"[(47.3960076, 9.3705839)]",Extreme rainfall,Andres et al. (2012),None,10
+2890,2011,Switzerland,46.2303063,7.6605757,08.10.2011,10.10.2011,River,"[(46.2303063, 7.6605757)]",Heavy rainfall and snowmelt,Andres et al. (2012),None,77
+2890,2011,Switzerland,46.8382351,7.6004502,08.10.2011,10.10.2011,River,"[(46.8382351, 7.6004502)]",Heavy rainfall and snowmelt,Andres et al. (2012),None,77
+2890,2011,Switzerland,46.9796562,9.108812,08.10.2011,10.10.2011,River,"[(46.9796562, 9.108812)]",Heavy rainfall and snowmelt,Andres et al. (2012),None,77
+2891,2013,Switzerland,47.412396,8.1948321,02.05.2013,02.05.2013,Flash,"[(47.412396, 8.1948321)]",Extreme rainfall up to 33 mm in 10 min,Andres et al. (2014),1,None
+2891,2013,Switzerland,47.3744489,8.5410422,02.05.2013,02.05.2013,Flash,"[(47.3744489, 8.5410422)]",Extreme rainfall up to 33 mm in 10 min,Andres et al. (2014),1,None
+2891,2013,Switzerland,47.6960491,8.634513,02.05.2013,02.05.2013,Flash,"[(47.6960491, 8.634513)]",Extreme rainfall up to 33 mm in 10 min,Andres et al. (2014),1,None
+2892,2013,Switzerland,47.3744489,8.5410422,31.05.2013,02.06.2013,River,"[(47.3744489, 8.5410422)]",Heavy rainfall,Andres et al. (2014); Sturmarchiv Schweiz (2022),1,40
+2892,2013,Switzerland,47.3960076,9.3705839,31.05.2013,02.06.2013,River,"[(47.3960076, 9.3705839)]",Heavy rainfall,Andres et al. (2014); Sturmarchiv Schweiz (2022),1,40
+2892,2013,Switzerland,47.3007262,9.3991527,31.05.2013,02.06.2013,River,"[(47.3007262, 9.3991527)]",Heavy rainfall,Andres et al. (2014); Sturmarchiv Schweiz (2022),1,40
+2892,2013,Switzerland,47.425618,9.3762397,31.05.2013,02.06.2013,River,"[(47.425618, 9.3762397)]",Heavy rainfall,Andres et al. (2014); Sturmarchiv Schweiz (2022),1,40
+2892,2013,Switzerland,47.0571976,8.7222073,31.05.2013,02.06.2013,River,"[(47.0571976, 8.7222073)]",Heavy rainfall,Andres et al. (2014); Sturmarchiv Schweiz (2022),1,40
+6004,2014,Switzerland,46.8382351,7.6004502,04.07.2014,28.07.2014,River,"[(46.8382351, 7.6004502)]",Heavy rainfall (several waves),Andres et al. (2015); Sturmarchiv Schweiz (2022); FloodList (2022),1,65
+6004,2014,Switzerland,47.425618,9.3762397,04.07.2014,28.07.2014,River,"[(47.425618, 9.3762397)]",Heavy rainfall (several waves),Andres et al. (2015); Sturmarchiv Schweiz (2022); FloodList (2022),1,65
+6004,2014,Switzerland,47.0505452,8.3054682,04.07.2014,28.07.2014,River,"[(47.0505452, 8.3054682)]",Heavy rainfall (several waves),Andres et al. (2015); Sturmarchiv Schweiz (2022); FloodList (2022),1,65
+6006,2015,Switzerland,47.0505452,8.3054682,07.06.2015,07.06.2015,Flash,"[(47.0505452, 8.3054682)]",Extreme rainfall above 50 mm in 1 h,Andres et al. (2016); Sturmarchiv Schweiz (2022); FloodList (2022),2,None
+2893,2016,Switzerland,46.6789116,7.1027113,04.06.2016,30.06.2016,River,"[(46.6789116, 7.1027113)]",Heavy rainfall (several waves),Andres and Badoux (2017); Sturmarchiv Schweiz (2022),None,55
+2893,2016,Switzerland,47.5092938,7.6588333,04.06.2016,30.06.2016,River,"[(47.5092938, 7.6588333)]",Heavy rainfall (several waves),Andres and Badoux (2017); Sturmarchiv Schweiz (2022),None,55
+2893,2016,Switzerland,47.412396,8.1948321,04.06.2016,30.06.2016,River,"[(47.412396, 8.1948321)]",Heavy rainfall (several waves),Andres and Badoux (2017); Sturmarchiv Schweiz (2022),None,55
+2893,2016,Switzerland,47.6960491,8.634513,04.06.2016,30.06.2016,River,"[(47.6960491, 8.634513)]",Heavy rainfall (several waves),Andres and Badoux (2017); Sturmarchiv Schweiz (2022),None,55
+2893,2016,Switzerland,47.425618,9.3762397,04.06.2016,30.06.2016,River,"[(47.425618, 9.3762397)]",Heavy rainfall (several waves),Andres and Badoux (2017); Sturmarchiv Schweiz (2022),None,55
+2893,2016,Switzerland,47.0505452,8.3054682,04.06.2016,30.06.2016,River,"[(47.0505452, 8.3054682)]",Heavy rainfall (several waves),Andres and Badoux (2017); Sturmarchiv Schweiz (2022),None,55
+2893,2016,Switzerland,46.8613857,8.2067825,04.06.2016,30.06.2016,River,"[(46.8613857, 8.2067825)]",Heavy rainfall (several waves),Andres and Badoux (2017); Sturmarchiv Schweiz (2022),None,55
+6007,2019,Switzerland,46.9895828,6.9292641,21.06.2019,21.06.2019,Flash,"[(46.9895828, 6.9292641)]",Extreme rainfall up to 100 mm in 3 h,Liechti et al. (2020); Sturmarchiv Schweiz (2022); FloodList (2022); Gretillat (2021),1,11
